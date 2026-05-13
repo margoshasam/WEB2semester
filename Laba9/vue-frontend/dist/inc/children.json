@@ -1,0 +1,22 @@
+[
+{"id":"1","img_path":"inc\/ChupanovKolya.jpg","name":"Чупанов Николай","id_group":"1","bio":"Николай из полной семьи. Папа - юрист. Мама - врач. Хронических заболеваний нет","year_of_birth":"2020"},
+{"id":"2","img_path":"inc\/DudkinaRita.jpg","name":"Дудкина Маргарита","id_group":"1","bio":"бронхиальная астма","year_of_birth":"2020"},
+{"id":"3","img_path":"inc\/FaleevaMira.jpg","name":"Фалеева Мира","id_group":"1","bio":"","year_of_birth":"2020"},
+{"id":"4","img_path":"inc\/FomichevaKatya.jpg","name":"Фомичёва Екатерина","id_group":"1","bio":"Родилась в Волгограде. Мама - инженер-экономист. Папа - безработный. Занимается спортивной аэробикой","year_of_birth":"2020"},
+{"id":"6","img_path":"inc\/IvlevPasha.jpg","name":"Ивлев Павел","id_group":"2","bio":"избыточная масса тела","year_of_birth":"2021"},
+{"id":"7","img_path":"inc\/KonovalovaMasha.jpg","name":"Коновалова Мария","id_group":"2","bio":"","year_of_birth":"2021"},
+{"id":"8","img_path":"inc\/KulikovSasha.jpg","name":"Куликов Александр","id_group":"2","bio":"Из неполной семьи. Мама воспитывает Сашу одна с его 1 года","year_of_birth":"2021"},
+{"id":"9","img_path":"inc\/LagutinaAlisa.jpg","name":"Лагутина Алиса","id_group":"3","bio":"","year_of_birth":"2022"},
+{"id":"10","img_path":"inc\/LupinaSveta.jpg","name":"Лупина Светлана","id_group":"3","bio":"","year_of_birth":"2022"},
+{"id":"11","img_path":"inc\/MakarovaLiza.jpg","name":"Макарова Елизавета","id_group":"3","bio":"","year_of_birth":"2022"},
+{"id":"12","img_path":"inc\/NechiporenkoOleg.jpeg","name":"Нечипоренко Олег","id_group":"3","bio":"диабет","year_of_birth":"2022"},
+{"id":"13","img_path":"inc\/ObydennikovMakar.jpg","name":"Обыдёнников Макар","id_group":"4","bio":"Здоров","year_of_birth":"2019"},
+{"id":"14","img_path":"inc\/PetrovSasha.jpg","name":"Петров Александр","id_group":"4","bio":"","year_of_birth":"2019"},
+{"id":"15","img_path":"inc\/PopovaKsusha.jpg","name":"Попова Ксения","id_group":"4","bio":"из неполной семьи. Папа - преподаватель в ВолГУ","year_of_birth":"2019"},
+{"id":"16","img_path":"inc\/PupSasha.jpg","name":"Пуп Александр","id_group":"4","bio":"","year_of_birth":"2022"},
+{"id":"17","img_path":"inc\/ShkuratovaSofa.webp","name":"Шкуратова Софа","id_group":"5","bio":"","year_of_birth":"2022"},
+{"id":"18","img_path":"inc\/SlavinaKira.jpg","name":"Славина Кира","id_group":"5","bio":"Из полной семьи. Родилась в Санкт-Петербурге","year_of_birth":"2019"},
+{"id":"19","img_path":"inc\/SmirnovMark.jpg","name":"Смирнов Марк","id_group":"5","bio":"","year_of_birth":"2020"},
+{"id":"20","img_path":"uploads\/child_69521d8beb4ea6.31044431.jpg","name":"Мамедов Руслан","id_group":"5","bio":"болезнь Кронаа","year_of_birth":"2019"}
+]
+

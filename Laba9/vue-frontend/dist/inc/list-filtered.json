@@ -1,0 +1,6 @@
+[
+{"id":"1","img_path":"inc\/ChupanovKolya.jpg","name":"Чупанов Николай","id_group":"1","bio":"Николай из полной семьи. Папа - юрист. Мама - врач. Хронических заболеваний нет","year_of_birth":"2020"},
+{"id":"2","img_path":"inc\/DudkinaRita.jpg","name":"Дудкина Маргарита","id_group":"1","bio":"бронхиальная астма","year_of_birth":"2020"},
+{"id":"3","img_path":"inc\/FaleevaMira.jpg","name":"Фалеева Мира","id_group":"1","bio":"","year_of_birth":"2020"},
+{"id":"4","img_path":"inc\/FomichevaKatya.jpg","name":"Фомичёва Екатерина","id_group":"1","bio":"Родилась в Волгограде. Мама - инженер-экономист. Папа - безработный. Занимается спортивной аэробикой","year_of_birth":"2020"}
+]
